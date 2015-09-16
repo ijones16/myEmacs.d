@@ -1,0 +1,54 @@
+ls
+cd Desktop/
+ls
+cd react-redux-universal-hot-example/
+ls
+npm run dev
+cd ~/
+ls
+cat Gruntfile.js 
+ls
+cd node_modules/
+ls
+cd ..
+ls
+ls
+ll
+rm Gruntfile.js 
+ls
+cat bower_components/
+cat bower.json 
+rm bower.json 
+ls
+cd app
+ls
+cd ../
+cd temp
+ls
+ls
+cd ..
+cd tmp
+ls
+cd ..
+cd test
+ls
+cd ..
+rm -rf app/
+ls
+rm -rf temp tmp test
+ls
+rm wget-1.15.tar.gz 
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+cd ~
+ls
+cd Desktop/
+ls
+cd src/
+mkdir emacs
+cd emacs/
+git clone https://github.com/jaypei/emacs-neotree.git neotree
